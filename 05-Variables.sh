@@ -4,4 +4,4 @@ echo "enter pin numner"
 
 read -s Pin
 
-echo "enter your number:$Pin"
+echo "enter your number: $Pin"
