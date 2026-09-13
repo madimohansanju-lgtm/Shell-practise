@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "enter pin numner"
+echo "enter Pin numner"
 
 read -s Pin
 
