@@ -1,9 +1,9 @@
 #!/bin/bash
 
-for m in (a...z)
+for m in {a..z}
 
 do
 
-echo $m
+    echo $m
 
 done
